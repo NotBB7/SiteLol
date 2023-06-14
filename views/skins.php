@@ -12,7 +12,7 @@
     <img class="hero-profile-img" src="../assets/img/champions/<?= $info['image']; ?>" alt="">
     <div class="hero-description-bk-<?= $info['color']; ?>"></div>
     <div class="hero-logo">
-        <img src="https://miscmedia-9gag-fun.9cache.com/images/thumbnail-facebook/1557291375.3948_Dy2yZu_n.jpg" alt="">
+        <img src="../assets/img/logo-card.jpg" alt="">
     </div>
     <div class="hero-description">
         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>

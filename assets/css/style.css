@@ -100,6 +100,50 @@
     width: 108%;
     transform: skew(19deg, -9deg);
   }
+
+  .hero-description-bk-gris {
+    background-image: linear-gradient(-20deg , #5c5c5c, #6fc2e9);
+    border-radius: 30px;
+    position: absolute;
+    top: 55%;
+    left: -5px;
+    height: 65%;
+    width: 108%;
+    transform: skew(19deg, -9deg);
+  }
+
+  .hero-description-bk-vert {
+    background-image: linear-gradient(-20deg , #a0a0a0, #1b201a);
+    border-radius: 30px;
+    position: absolute;
+    top: 55%;
+    left: -5px;
+    height: 65%;
+    width: 108%;
+    transform: skew(19deg, -9deg);
+  }
+
+  .hero-description-bk-orange {
+    background-image: linear-gradient(-20deg , #eb3535, #f35d07);
+    border-radius: 30px;
+    position: absolute;
+    top: 55%;
+    left: -5px;
+    height: 65%;
+    width: 108%;
+    transform: skew(19deg, -9deg);
+  }
+
+  .hero-description-bk-rose {
+    background-image: linear-gradient(-20deg , #fa637c, #fa8dc9);
+    border-radius: 30px;
+    position: absolute;
+    top: 55%;
+    left: -5px;
+    height: 65%;
+    width: 108%;
+    transform: skew(19deg, -9deg);
+  }
   
   .hero-logo {
     height: 80px;

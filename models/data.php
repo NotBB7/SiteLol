@@ -82,5 +82,32 @@ $champion = [
 		"region" => "Freijord",
 		"image" => "Trundle.jpg",
 		"color" => "gris"
+	],
+	[
+		"name" => "Teemo",
+		"prix" => "450 EB",
+		"poste" => "TOP",
+		"description" => "Scout de Bantam",
+		"region" => "Bandle",
+		"image" => "Teemo.jpg",
+		"color" => "vert"
+	],
+	[
+		"name" => "Annie",
+		"prix" => "450 EB",
+		"poste" => "MID",
+		"description" => "Enfant des Ténèbres",
+		"region" => "Runeterra",
+		"image" => "Annie.jpg",
+		"color" => "orange"
+	],
+	[
+		"name" => "Seraphine",
+		"prix" => "3150 EB",
+		"poste" => "SUP",
+		"description" => "Chanteuse Rêveuse",
+		"region" => "Piltover",
+		"image" => "Seraphine.jpg",
+		"color" => "rose"
 	]
 ];
