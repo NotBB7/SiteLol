@@ -1,3 +1,12 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto:400,400i,700");
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+
 /* BEGIN CARD DESIGN */
 .hero {
     display: inline-block;
@@ -191,11 +200,14 @@
   /* END CARD DESIGN */
   
   body {
-    font-family: 'Open Sans', sans-serif;
-    margin: 0;
-    background-color: #eee;
+    background: #000;
+    color: #fff;
+    font-family: Roboto, sans-serif;
     min-height: 100vh;
+    place-items: center;
+
   }
+
   .btn i:before {
     width: 14px;
     height: 14px;
@@ -213,3 +225,107 @@
     line-height:80px;
     }
   }
+
+
+  /*Home.PHP*/
+
+
+  .cards {
+    display: flex;
+    width: 100%;
+    height: 80%;
+    overflow: hidden;
+  }
+  
+  .card {
+    position: relative;
+    height: 100%;
+    transition: all 700ms ease-in-out;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+    flex: calc(100vw / 6) 1 1;
+  }
+  
+  .card:hover {
+    flex-basis: 35%;
+  }
+  
+  .card:hover .text {
+    opacity: 1;
+  }
+  
+  .card::before {
+    content: '';
+    position: absolute;
+    top: 50%;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: linear-gradient(to bottom, transparent, rgba(0,0,0,0.5));
+  }
+  
+  .card::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(0,0,0,0);
+    transition: all 700ms ease-in-out;
+  }
+  
+  .cards:hover .card::after {
+    background: rgba(0,0,0,0.6);
+    pointer-events: none;
+  }
+  
+  .cards:hover .card.active::after {
+    background: rgba(0,0,0,0);
+  }
+  
+  /* Text */
+  .title {
+    position: absolute;
+    left: 1rem;
+    top: 65%;
+    color: yellow;
+    font-family: 'Oswald';
+    font-weight: 400;
+    font-size: 1.8rem;
+  }
+  
+  .text {
+    position: absolute;
+    left: 1rem;
+    top: 75%;
+    width: 350px;
+    transition: all 400ms ease-in-out;
+    opacity: 0;
+    font-size: 1rem;
+    font-weight: 200;
+    line-height: 1.4;
+  }
+  
+  /* Backgrounds */
+  .character-1 {
+    background-image: url("https://www.team-aaa.com/upload/media/post_image/0001/10/f874bf3fe7fc31e370ecbd886271f619a9adcbed.jpeg");
+  }
+  .character-2 {
+    background-image: url("https://vonguru.fr/wp-content/uploads/2019/11/vonguru_image_esport_couverturescene.jpg");
+  }
+  .character-3 {
+    background-image: url("https://i.ytimg.com/vi/fg2uqPGOlek/maxresdefault.jpg");
+  }
+  .character-4 {
+    background-image: url("https://static1.millenium.org/article_old/images/contenu/actus/LOL/Lore/runetarra_valorn_carte.jpg");
+  }
+  .character-5 {
+    background-image: url("https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltae73400e778eaa61/647a1f6243a8f11845e5e808/TFT_Set9_Mograph_intro_noLIGHTING_opt.jpg");
+  }
+  
+  
