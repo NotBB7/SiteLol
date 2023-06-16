@@ -13,7 +13,7 @@
               <a class="nav-link mx-2 active" aria-current="page" href="../controllers/controller-home.php">Accueil</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link mx-2" href="../controllers/controller-home.php">Champions</a>
+              <a class="nav-link mx-2" href="../controllers/controller-champion.php">Champions</a>
             </li>
             <li class="nav-item d-none d-lg-block">
               <a class="nav-link mx-2" href="#">
