@@ -54,7 +54,7 @@ $champion = [
 		"region" => "Demacia",
 		"image" => "Garen.jpg",
 		"color" => "jaunenoir"
-		
+
 	],
 	[
 		"name" => "Nocturne",
@@ -109,5 +109,157 @@ $champion = [
 		"region" => "Piltover",
 		"image" => "Seraphine.jpg",
 		"color" => "rose"
+	]
+];
+
+$skin = [
+	[
+		"name" => "Aatrox",
+		"prix" => " 20€",
+		"argent" => "1450RP",
+		"prix1" => " 10€",
+		"argent1" => "750RP",
+		"image" => "Aatrox.webp",
+		"image1" => "Aatrox2.webp",
+	],
+	[
+		"name" => "Ahri",
+		"prix" => " 25€",
+		"argent" => "2450RP",
+		"prix1" => " 15€",
+		"argent1" => "1350RP",
+		"image" => "Ahri.webp",
+		"image1" => "Ahri2.webp",
+	],
+	[
+		"name" => "Aphelios",
+		"prix" => " 10€",
+		"argent" => "750RP",
+		"prix1" => " 15€",
+		"argent1" => "1350RP",
+		"image" => "Aphelios.webp",
+		"image1" => "Aphelios2.webp",
+	],
+	[
+		"name" => "Akali",
+		"prix" => " 20€",
+		"argent" => "1450RP",
+		"prix1" => " 10€",
+		"argent1" => "750RP",
+		"image" => "Akali.webp",
+		"image1" => "Akali2.webp",
+	],
+	[
+		"name" => "Anivia",
+		"prix" => " 20€",
+		"argent" => "1450RP",
+		"prix1" => " 10€",
+		"argent1" => "750RP",
+		"image" => "Anivia.webp",
+		"image1" => "Anivia2.webp",
+	],
+	[
+		"name" => "Alistar",
+		"prix" => " 20€",
+		"argent" => "1450RP",
+		"prix1" => " 10€",
+		"argent1" => "750RP",
+		"image" => "Alistar.webp",
+		"image1" => "Alistar2.webp",
+
+	],
+	[
+		"name" => "Annie",
+		"prix" => " 20€",
+		"argent" => "1450RP",
+		"prix1" => " 10€",
+		"argent1" => "750RP",
+		"image" => "Annie.webp",
+		"image1" => "Annie2.webp",
+	],
+	[
+		"name" => "Amumu",
+		"prix" => " 20€",
+		"argent" => "1450RP",
+		"prix1" => " 10€",
+		"argent1" => "750RP",
+		"image" => "Amumu.webp",
+		"image1" => "Amumu2.webp",
+	],
+	[
+		"name" => "Leblanc",
+		"prix" => " 20€",
+		"argent" => "1450RP",
+		"prix1" => " 10€",
+		"argent1" => "750RP",
+		"image" => "Leblanc.webp",
+		"image1" => "Leblanc2.webp",
+	],
+	[
+		"name" => "Zed",
+		"prix" => " 20€",
+		"argent" => "1450RP",
+		"prix1" => " 10€",
+		"argent1" => "750RP",
+		"image" => "Zed.webp",
+		"image1" => "Zed2.webp",
+	],
+	[
+		"name" => "Katarina",
+		"prix" => " 20€",
+		"argent" => "1450RP",
+		"prix1" => " 10€",
+		"argent1" => "750RP",
+		"image" => "Katarina.webp",
+		"image1" => "Katarina2.webp",
+	],
+	[
+		"name" => "Kalista",
+		"prix" => " 20€",
+		"argent" => "1450RP",
+		"prix1" => " 10€",
+		"argent1" => "750RP",
+		"image" => "Kalista.webp",
+		"image1" => "Kalista2.webp",
+	]
+];
+
+
+$rp = [
+	[
+		"nombre" => "575 RP",
+		"bonus" => " + 0 bonus",
+		"prix" => "4.99€",
+		"description" => " (TOUS LES PRIX SONT TVA COMPRIS LE CAS ÉCHÉANT)",
+	],
+	[
+		"nombre" => "1275 RP",
+		"bonus" => " + 105 bonus",
+		"prix" => "10.99€",
+		"description" => " (TOUS LES PRIX SONT TVA COMPRIS LE CAS ÉCHÉANT)",
+	],
+	[
+		"nombre" => "2525 RP",
+		"bonus" => " + 275 bonus",
+		"prix" => "21.99€",
+		"description" => " (TOUS LES PRIX SONT TVA COMPRIS LE CAS ÉCHÉANT)",
+	],
+	[
+		"nombre" => "4025 RP",
+		"bonus" => " + 475 bonus",
+		"prix" => "34.99€",
+		"description" => " (TOUS LES PRIX SONT TVA COMPRIS LE CAS ÉCHÉANT)",
+	],
+	[
+		"nombre" => "5750 RP",
+		"bonus" => " + 750 bonus ",
+		"prix" => "49.99€",
+		"description" => " (TOUS LES PRIX SONT TVA COMPRIS LE CAS ÉCHÉANT)",
+	],
+	[
+		"nombre" => "11525 RP",
+		"bonus" => " + 1975 bonus",
+		"prix" => "99.99€",
+		"description" => " (TOUS LES PRIX SONT TVA COMPRIS LE CAS ÉCHÉANT)",
 	]
 ];

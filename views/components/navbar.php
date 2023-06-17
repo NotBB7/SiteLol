@@ -24,9 +24,9 @@
               <a class="nav-link mx-2" href="../controllers/controller-skin.php">Skins</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link mx-2" href="#">RP</a>
+              <a class="nav-link mx-2" href="../controllers/controller-rp.php">RP</a>
             </li>
           </ul>
         </div>
       </div>
-    </nav>
+</nav>

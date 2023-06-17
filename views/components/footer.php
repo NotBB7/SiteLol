@@ -3,7 +3,7 @@
   <!-- Copyright -->
   <div class="text-center p-3 text-light" style="background-color: rgba(0, 0, 0, 0.2);">
     © 2023 Copyright:
-    <a class="text-light" href="https://mdbootstrap.com/">ShopLOL.com</a>
+    <a class="text-light" href="https://github.com/NotBB7">ShopLOL.com</a>
   </div>
   <!-- Copyright -->
 </footer>
