@@ -29,7 +29,7 @@ Les outils suivants 🛠 ont été utilisés dans la construction du projet :
         <td>5</td>
         <td>3</td>
         <td>1</td>
-        <td>5.3.0</td>
+        <td>5.0.2</td>
     </tr>
 </table>
 
