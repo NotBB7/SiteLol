@@ -7,7 +7,7 @@
 </p>
 
 ![forthebadge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![forthebadge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![forthebadge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![forthebadge](https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white)
-![forthebadge](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![forthebadge](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white) ![forthebadge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### Information
 
@@ -20,7 +20,7 @@ Les outils suivants 🛠 ont été utilisés dans la construction du projet :
 
 <table>
     <tr>
-        <td><a href="https://html.com/"><img src="https://skillicons.dev/icons?i=all"></a></td>
+        <td><a href="https://html.com/">HTML</a></td>
         <td><a href="https://www.w3schools.com/css/">CSS</a></td>
         <td><a href="https://www.javascript.com/">JS</a></td>
         <td><a href="https://getbootstrap.com/">Boostrap</a></td>
