@@ -20,7 +20,7 @@ Les outils suivants 🛠 ont été utilisés dans la construction du projet :
 
 <table>
     <tr>
-        <td><a href="https://html.com/">HTML</a></td>
+        <td><a href="https://html.com/"><img src="https://skillicons.dev/icons?i=all"></a></td>
         <td><a href="https://www.w3schools.com/css/">CSS</a></td>
         <td><a href="https://www.javascript.com/">JS</a></td>
         <td><a href="https://getbootstrap.com/">Boostrap</a></td>
